@@ -1,0 +1,6 @@
+bashrc_path=/home/ubuntu/.bashrc
+Master_IP=10.23.3.241
+Total_Slaves=3
+Slave1_IP=10.23.3.241
+Slave2_IP=10.23.3.242
+Slave3_IP=10.23.0.109
